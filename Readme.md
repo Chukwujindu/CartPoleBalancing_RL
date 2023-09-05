@@ -1,3 +1,1 @@
-This is the original readme file
-To access the code, look into the index.ipynb file.
-Run code using any python IDE
+The Cartpole balancing problem, a classic control problem in reinforcement learning. Our goal is to balance a pole attached to a cart using the Proximal Policy Optimization algorithm. We'll demonstrate the results of our study, and discuss the implications and potential applications of this problem."
